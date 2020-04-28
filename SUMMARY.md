@@ -2,6 +2,7 @@
 
 * [Initial page](README.md)
 * [страница 1](untitled---slug.md)
+* [страница 2](page2.md)
 
 ## Группа 1
 
